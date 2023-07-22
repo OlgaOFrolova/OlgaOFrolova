@@ -34,6 +34,6 @@
 * эффективна в стрессовых ситуациях (в РЖД занималась оперативной оценкой последствий аварий и крушений)
 * легко нахожу общий язык с большими объемами информации и базами данных различных конфигураций (участвовала в разработке и эксплуатации СУБД как постановщик задач, аналитик, пользователь и инструктор)
 
-:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-olgaofrolova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/olgaofrolova) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](50freesmart@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-olgaofrolova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/olgaofrolova) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:50freesmart@gmail.com)
 
 

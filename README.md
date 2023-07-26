@@ -26,6 +26,9 @@
 * эффективна в стрессовых ситуациях (занималась оперативной экономической оценкой нештатных ситуаций в ОАО РЖД)
 * легко нахожу общий язык с большими объемами информации и базами данных различных конфигураций (участвовала в разработке и эксплуатации СУБД как постановщик задач, аналитик, пользователь и инструктор)
 
+#### ✔️ Формальное резюме: 
+https://github.com/OlgaOFrolova/OlgaOFrolova/blob/main/summary.pdf
+
 ---
 
 :mailbox: Как связаться со мной:[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:50freesmart@gmail.com)  [![Telegram Badge](https://img.shields.io/badge/-olgaofrolova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/olgaofrolova)

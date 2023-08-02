@@ -27,8 +27,7 @@
 * легко нахожу общий язык с большими объемами информации и базами данных различных конфигураций (участвовала в разработке и эксплуатации СУБД как постановщик задач, аналитик, пользователь и инструктор)
 
 
-мое резюме: https://github.com/OlgaOFrolova/OlgaOFrolova/blob/main/summary.pdf
-
+мое формальное резюме: https://github.com/OlgaOFrolova/OlgaOFrolova/blob/main/summary%20Frolova.pdf
 ---
 
 :mailbox: Как связаться со мной:[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:50freesmart@gmail.com)  [![Telegram Badge](https://img.shields.io/badge/-olgaofrolova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/olgaofrolova)

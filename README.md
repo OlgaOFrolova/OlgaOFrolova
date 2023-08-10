@@ -12,9 +12,9 @@
 
 #### ✔️ Что знаю в тестировании на сегодняшний момент:
 
+* Основные виды тестовой документации
 * Тестирование API и пользовательского интерфейса веб-приложений
 * Знание фреймворка Pytest  для автоматизации тестирования  для Python
-* Основные виды тестовой документации
 * Понимание XPath, базовые знания HTML и CSS
 * Практика тестирования веб-приложений с помощью Selenium
 * Базовые знания SQL
@@ -26,11 +26,20 @@
 * эффективна в стрессовых ситуациях (занималась оперативной экономической оценкой нештатных ситуаций в ОАО РЖД)
 * легко нахожу общий язык с большими объемами информации и базами данных различных конфигураций (участвовала в разработке и эксплуатации СУБД как постановщик задач, аналитик, пользователь и инструктор)
 
+#### ✔️ мои учебные проекты 
+* ручное тестирование:
+- [чек-листы для сайта продажи билетов](https://github.com/OlgaOFrolova/CheckList)
+- [требования, тест-кейсы и багрепорты для тестового магазина Hexslet](https://github.com/OlgaOFrolova/Manual_testing)
+*  автоматические тесты для сайта бронирования отелей Restfull-booker:
+-- [документация](https://github.com/OlgaOFrolova/API_Restfull_booker_tests_documentation)
+-- [автотесты](https://github.com/OlgaOFrolova/API_Restfull_booker)
+* [API тесты с использованием Postman](https://github.com/OlgaOFrolova/API_Testing_Using_Postman)
+
 
 ► мое резюме: 
 https://github.com/OlgaOFrolova/OlgaOFrolova/blob/main/summary%20Frolova.pdf
 
----
+==================
 
 :mailbox: Как связаться со мной:[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:50freesmart@gmail.com)  [![Telegram Badge](https://img.shields.io/badge/-olgaofrolova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/olgaofrolova)
 

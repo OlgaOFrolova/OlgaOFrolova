@@ -22,6 +22,7 @@
 ***
 ### ✔️ Мои учебные проекты:
 #### ► Ручное тестирование:
+<a href="http://www.easy-code.ru" target="_blank">Откроется в новой вкладке</a>
 - [чек-листы для сайта продажи билетов](https://github.com/OlgaOFrolova/CheckList)
 - [требования, тест-кейсы и багрепорты для тестового магазина Hexslet](https://github.com/OlgaOFrolova/Manual_testing)
 #### ► Автоматические тесты для сайта бронирования отелей Restfull-booker:

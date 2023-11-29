@@ -41,7 +41,7 @@
 
 ***
 ### ✔️ Мое резюме:
-https://github.com/OlgaOFrolova/OlgaOFrolova/blob/main/summary%20Frolova.pdf
+[https://github.com/OlgaOFrolova/OlgaOFrolova/blob/main/summary_Frolova.pdf]
 
 ***
 

@@ -25,6 +25,7 @@
 #### ► Ручное тестирование:
 - [чек-листы для сайта продажи билетов](https://github.com/OlgaOFrolova/CheckList)
 - [требования, тест-кейсы и багрепорты для тестового магазина Hexslet](https://github.com/OlgaOFrolova/Manual_testing)
+- [тестирование модуля регистрации для SRM](https://github.com/OlgaOFrolova/registration_module)
 #### ► Автоматические тесты для сайта бронирования отелей Restfull-booker:
 - [документация](https://github.com/OlgaOFrolova/API_Restfull_booker_tests_documentation)
 - [автотесты](https://github.com/OlgaOFrolova/API_Restfull_booker)
